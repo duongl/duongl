@@ -81,15 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongl&show_icons=true&theme=tokyonight&hide_border=true" alt="duongl GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongl&layout=compact&theme=tokyonight&hide_border=true" alt="duongl Top Languages" height="155" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 * 🐱 **GitHub:** [https://github.com/duongl](https://github.com/duongl)
